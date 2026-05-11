@@ -6,10 +6,14 @@
  * Author: Junnect
  * Author URI: https://junnect.nl
  * Text Domain: forminator-wpml-bridge 
+ * License: GPL-2.0-or-later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.0
  * Tested up to: 6.4
  * Requires PHP: 8.1
  */
+
+// SPDX-License-Identifier: GPL-2.0-or-later
 
 if (!defined('ABSPATH')) {
     exit;

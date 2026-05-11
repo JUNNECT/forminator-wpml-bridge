@@ -60,3 +60,7 @@ Contact Form [NL]
 - PHP 8.1+
 - Forminator
 - WPML
+
+## License
+
+GPL-2.0-or-later
