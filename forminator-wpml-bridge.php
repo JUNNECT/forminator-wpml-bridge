@@ -15,9 +15,9 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-if (class_exists('Forminator_WPML_Bridge_Plugin')) {
-    return;
-}
+// if (class_exists('Forminator_WPML_Bridge_Plugin')) {
+//     return;
+// }
 
 class Forminator_WPML_Bridge_Plugin {
     private static $instance = null;
